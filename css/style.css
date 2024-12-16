@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+body{
+    background-color: black;
+    color: #fff
+}
+
+main{
+    padding: 5vw 10vw;
+}
+
+main h2{
+    font-size: 3rem;
+    text-align: center;
+    font-family: "comfortaa", sans-serif;
+}
+
+form{
+    text-align: center;
+    margin: 3vw 6vw;
+    background-color: rgba(228, 121, 228, 0.175);
+    padding: 5vw;
+    border-radius:1vw ;
+}
+
+input{
+    background-color: #c4c4c4;
+    border: none;
+    font-size: 2rem;
+    border-radius: 0.5vw;
+    font-family: "comfortaa", sans-serif;
+}
+p{
+    margin-top: 1vw;
+    font-size: 2rem;
+    font-family: "comfortaa", sans-serif;
+    text-align: center;
+}
+select{
+    font-size: 2rem;
+    font-family: "comfortaa", sans-serif;
+}
+span{
+    color: red;
+}
